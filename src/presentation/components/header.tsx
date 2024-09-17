@@ -3,7 +3,6 @@ import { Stack, Typography } from "@mui/material";
 export const Header = () => {
   return (
     <Stack
-      width={"100%"}
       height={"70px"}
       direction={"row"}
       alignItems={"center"}
