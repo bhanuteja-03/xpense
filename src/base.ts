@@ -1,0 +1,1 @@
+export const EXPENSES_SERVICE_URL = process.env.REACT_APP_EXPENSE_SERVICE_URL;
